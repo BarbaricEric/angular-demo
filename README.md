@@ -1,6 +1,6 @@
-# Ecommerce Site
+# Angular Demo
 
-This ecommerce web project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This Angular Demo web project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 
